@@ -21,6 +21,10 @@ Most users still work with the desktop versions of Microsoft Office products. Th
 A good overview with all different plans and add-ons is available on this [weblink](https://go.microsoft.com/fwlink/p/?LinkID=2139145&clcid=0x409&culture=en-us&country=us).  
 See a copy of it [here](https://github.com/user-attachments/files/16452804/modern-work-plan-comparison-enterprise-352528.pdf) .
 
-For developer purposes, I started with a Microsoft Sharepoint site and joined then the Microsoft 365 Developer Program.
+First, I started with a Microsoft Sharepoint site and joined later the Microsoft 365 Developer Program.
+
+Let's do this.
+
+
 
 Find a few Wiki entries about Microsoft 365, Teams, Sharepoint here -> https://github.com/dcasota/m365-scripts/wiki

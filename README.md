@@ -1,6 +1,8 @@
-# How to build a tenant from the scratch
+# Where to start with Microsoft 365 ?
 
 Microsoft 365 has become the cornerstone of office collaboration for most companies in nowadays.
+
+However, the long-term retrieval of acquired learning content with permanent safeguarding of the retrieval systems, the protection of data and thus also privacy poses proliferation and resource sustainability challenges to the actors.
 
 For Microsoft 365 engineers it's quite important, to have a lab where to test processed hardening guides, automation and compliance stuff.
 
@@ -21,8 +23,19 @@ Most users still work with the desktop versions of Microsoft Office products. Th
 A good overview with all different plans and add-ons is available on this [weblink](https://go.microsoft.com/fwlink/p/?LinkID=2139145&clcid=0x409&culture=en-us&country=us).  
 See a copy of it [here](https://github.com/user-attachments/files/16452804/modern-work-plan-comparison-enterprise-352528.pdf) .
 
-First, start by creating a [Sharepoint site (Plan 1)](https://github.com/dcasota/m365-scripts/wiki/Create-and-configure-a-new-sharepoint-site-(plan-1))
+This wiki describes journey experiences and tecniques automating M365 tenant configurations.
+
+Lab-Environment
+-
+
+First, start by creating a [Sharepoint site (Plan 1)](https://github.com/dcasota/m365-scripts/wiki/Create-and-configure-a-new-sharepoint-site-(plan-1))  
+
+Have a look to the Wiki entries about Microsoft 365, Teams, Sharepoint [here](https://github.com/dcasota/m365-scripts/wiki).
 
 
 
-Find a few Wiki entries about Microsoft 365, Teams, Sharepoint here -> https://github.com/dcasota/m365-scripts/wiki
+
+
+
+
+

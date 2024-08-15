@@ -32,6 +32,13 @@ First, start by creating a [Sharepoint site (Plan 1)](https://github.com/dcasota
 
 Have a look to the Wiki entries about Microsoft 365, Teams, Sharepoint [here](https://github.com/dcasota/m365-scripts/wiki).
 
+As-a-code configuration
+-
+Starting with a Microsoft 365 tenant typically leads to the demand of desired configurations. Microsoft365DSC is the declarative form of a Microsoft 365 tenant configuration. It allows you to represent the configuration of your tenant in code (Configuration-as-Code) leveraging PowerShell Desired State Configuration (DSC). For more information, see https://microsoft365dsc.com/user-guide/get-started/introduction/.
+
+DSC implementations use various Powershell modules. It helps to get familiar with the Powershell modules and with the supported authentication methods.
+
+![image](https://github.com/user-attachments/assets/2dc570d7-6fdf-4f25-9c15-f7e7c0798cf0)
 
 
 

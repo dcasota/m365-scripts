@@ -40,9 +40,8 @@ DSC implementations use various Powershell modules. It helps to get familiar wit
 
 ![image](https://github.com/user-attachments/assets/2dc570d7-6fdf-4f25-9c15-f7e7c0798cf0)
 
-
-
-
+For learning purposes, see
+- https://learn.microsoft.com/en-us/training/paths/manage-microsoft-365-services-use-windows-powershell/
 
 
 

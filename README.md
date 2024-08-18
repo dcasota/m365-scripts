@@ -43,5 +43,25 @@ DSC implementations use various Powershell modules. It helps to get familiar wit
 For learning purposes, see
 - https://learn.microsoft.com/en-us/training/paths/manage-microsoft-365-services-use-windows-powershell/
 
+A very good overview of the different authentication methods does https://lazyadmin.nl/powershell/connect-mggraph/.
 
+Challenges
+-
+
+During tinkering, I've found out that the powershell implementations consist of issues. It's matrix of possibilites, but not all are working flawlessly.
+
+A. Modules' release  
+B. Scope: 1) CurrentUser 2) Global  
+C. Delegated Access: 1) Interactive Authentication 2) Device code 3) Access Token 4) Custom Azure Application  
+D. App-Only Access: 1) Certificate-based 2) Managed Identity 3) Client Secret  
+E. Azure Environment  
+   ```
+   Name     AzureADEndpoint                   GraphEndpoint                           Type
+   ----     ---------------                   -------------                           ----
+   Global   https://login.microsoftonline.com https://graph.microsoft.com             Built-in
+   China    https://login.chinacloudapi.cn    https://microsoftgraph.chinacloudapi.cn Built-in
+   Germany  https://login.microsoftonline.de  https://graph.microsoft.de              Built-in
+   USGov    https://login.microsoftonline.us  https://graph.microsoft.us              Built-in
+   USGovDoD https://login.microsoftonline.us  https://dod-graph.microsoft.us          Built-in
+   ```
 

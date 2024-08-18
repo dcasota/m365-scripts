@@ -32,7 +32,7 @@ First, start by creating a [Sharepoint site (Plan 1)](https://github.com/dcasota
 
 Have a look to the Wiki entries about Microsoft 365, Teams, Sharepoint [here](https://github.com/dcasota/m365-scripts/wiki).
 
-As-a-code configuration
+Authentication methods
 -
 Starting with a Microsoft 365 tenant typically leads to the demand of desired configurations. Microsoft365DSC is the declarative form of a Microsoft 365 tenant configuration. It allows you to represent the configuration of your tenant in code (Configuration-as-Code) leveraging PowerShell Desired State Configuration (DSC). For more information, see https://microsoft365dsc.com/user-guide/get-started/introduction/.
 
@@ -45,13 +45,28 @@ For learning purposes, see
 
 A very good overview of the different authentication methods does https://lazyadmin.nl/powershell/connect-mggraph/.
 
-Challenges
+As-a-code configuration challenges
 -
 
 During tinkering, I've found out that the powershell implementations consist of issues. It's matrix of possibilites, but not all are working flawlessly.
 
-A. Modules' release  
-B. Scope: 1) CurrentUser 2) Global  
+A. Powershell Modules' release  
+   1. Az:                          https://github.com/Azure/azure-powershell  
+   2. Az Tools:                    https://learn.microsoft.com/en-us/powershell/azure/overview?view=aztools  
+   3. Exchange Online:             https://learn.microsoft.com/en-us/powershell/exchange/exchange-online-powershell?view=exchange-ps  
+   4. Teams:                       https://learn.microsoft.com/en-us/microsoftteams/teams-powershell-overview  
+   5. Sharepoint:                  https://learn.microsoft.com/en-us/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell  
+   6. PnP.Powershell:              https://pnp.github.io/powershell/  
+   7. CLI for Microsoft365:        https://pnp.github.io/cli-microsoft365/  
+   8. Microsoft Graph Pwsh SDK:    https://www.powershellgallery.com/packages/Microsoft.Graph  
+   9. Microsoft365DSC:             https://github.com/Microsoft/Microsoft365DSC  
+   10. Graph:                       https://learn.microsoft.com/en-us/powershell/microsoftgraph/?view=graph-powershell-1.0  
+   11. PowerApps:                   https://learn.microsoft.com/en-us/power-platform/admin/powerapps-powershell  
+   12. AzureAD (alt):               https://www.powershellgallery.com/packages/AzureAD  
+   13. MSOnline:                    https://www.powershellgallery.com/packages/MSOnline/  
+   14. Entra (neu):                 https://learn.microsoft.com/en-us/powershell/entra-powershell/?view=entra-powershell     
+    
+B. Scope: 1) CurrentUser 2) Process  
 C. Delegated Access: 1) Interactive Authentication 2) Device code 3) Access Token 4) Custom Azure Application  
 D. App-Only Access: 1) Certificate-based 2) Managed Identity 3) Client Secret  
 E. Azure Environment  

@@ -63,6 +63,7 @@ A. Powershell Modules' release
    10. Graph:                       https://learn.microsoft.com/en-us/powershell/microsoftgraph/?view=graph-powershell-1.0  
    11. PowerApps:                   https://learn.microsoft.com/en-us/power-platform/admin/powerapps-powershell  
    12. AzureAD (alt):               https://www.powershellgallery.com/packages/AzureAD  
+       AzureADPreview:              https://www.powershellgallery.com/packages/AzureADPreview
    13. MSOnline:                    https://www.powershellgallery.com/packages/MSOnline/  
    14. Entra (neu):                 https://learn.microsoft.com/en-us/powershell/entra-powershell/?view=entra-powershell     
     
@@ -79,4 +80,9 @@ E. Azure Environment
    USGov    https://login.microsoftonline.us  https://graph.microsoft.us              Built-in
    USGovDoD https://login.microsoftonline.us  https://dod-graph.microsoft.us          Built-in
    ```
+
+# Weblinks
+
+Martina Grom: https://github.com/martinagrom
+
 

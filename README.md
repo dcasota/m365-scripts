@@ -1,10 +1,17 @@
-# Where to start with Microsoft 365 ?
 
+# Where to start with Microsoft 365 ?
 Microsoft 365 has become the cornerstone of office collaboration for most companies in nowadays.
 
-However, the long-term retrieval of acquired learning content with permanent safeguarding of the retrieval systems, the protection of data and thus also privacy poses proliferation and resource sustainability challenges to the actors.
+The main point people are using Microsoft solutions is sustainability. They prefer the benefits of the digital transformation utilizing Microsoft solutions.
 
+Expanding digital transformation in the development field of sustainability is the place to start. The methodology of how to adopt a solution is a key benefit.
+
+![image](https://github.com/user-attachments/assets/ecaa827b-a8e1-4a68-97b2-790ff83797e6)
+
+# As an ICT system engineer, where to start with Microsoft 365 ?
 For Microsoft 365 engineers it's quite important, to have a lab where to test processed hardening guides, automation and compliance stuff.
+
+The long-term retrieval of acquired learning content with permanent safeguarding of the retrieval systems, the protection of data and thus also privacy poses proliferation and resource sustainability challenges to the actors.
 
 So, where to start with?
 

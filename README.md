@@ -4,7 +4,7 @@ Microsoft 365 has become the cornerstone of office collaboration for most compan
 
 The main point people are using Microsoft solutions is sustainability. They prefer the benefits of the digital transformation utilizing Microsoft solutions.
 
-Expanding digital transformation in the development field of sustainability is the place to start. The methodology of how to adopt a solution is a key benefit.
+In my opinion, expanding digital transformation in the development field of sustainability is the place to start. The methodology of how to adopt a solution is a key benefit.
 
 ![image](https://github.com/user-attachments/assets/ecaa827b-a8e1-4a68-97b2-790ff83797e6)
 
@@ -54,6 +54,18 @@ A very good overview of the different authentication methods does https://lazyad
 
 As-a-code configuration challenges
 -
+
+Resource consumption usually is granted through groups. There are differences between Microsoft365 Groups, Distribution Groups, Security Groups and Mail-enabled Security Groups.
+With Microsoft 365 Groups, you can give a group of people access to a collection of shared resources. These resources include:
+- A shared Outlook inbox
+- A shared calendar
+- A SharePoint document library
+- A Planner
+- A OneNote notebook
+- Power BI
+- A Team (if the group was created from Teams)
+- Roadmap (if you have Project for the web)
+- Stream
 
 During tinkering, I've found out that the powershell implementations consist of issues. It's matrix of possibilites, but not all are working flawlessly.
 

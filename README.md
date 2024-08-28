@@ -100,6 +100,18 @@ E. Azure Environment
    USGovDoD https://login.microsoftonline.us  https://dod-graph.microsoft.us          Built-in
    ```
 
+# Document your environment
+(todo) 
+- architecture guide
+- inventory  
+  For example: https://github.com/ThomasKur/M365Documentation  
+- operating manual
+- user guide
+  A good example of a user guide is the stanford Microsoft 365 service description, see e.g. pages
+  - https://uit.stanford.edu/service/microsoft365
+  - https://uit.stanford.edu/service/microsoft365/teams/naming-guidelines
+
+ 
 # Weblinks
 
 Martina Grom: https://github.com/martinagrom

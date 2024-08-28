@@ -8,6 +8,9 @@ In my opinion, expanding digital transformation in the development field of sust
 
 ![image](https://github.com/user-attachments/assets/ecaa827b-a8e1-4a68-97b2-790ff83797e6)
 
+
+Copy of the Microsoft Cloud for Sustainability reference documentation as pdf (August 28th 2024): [Google Weblink](https://drive.google.com/file/d/1pJQFo2qVbLnonRO_NmCaZiwhHdlRMZrf/view?usp=sharing)
+
 # As an ICT system engineer, where to start with Microsoft 365 ?
 For Microsoft 365 engineers it's quite important, to have a lab where to test processed hardening guides, automation and compliance stuff.
 

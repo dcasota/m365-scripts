@@ -87,7 +87,8 @@ A. Powershell Modules' release
    12. AzureAD (alt):               https://www.powershellgallery.com/packages/AzureAD  
        AzureADPreview:              https://www.powershellgallery.com/packages/AzureADPreview
    13. MSOnline:                    https://www.powershellgallery.com/packages/MSOnline/  
-   14. Entra (neu):                 https://learn.microsoft.com/en-us/powershell/entra-powershell/?view=entra-powershell     
+   14. Entra (neu):                 https://learn.microsoft.com/en-us/powershell/entra-powershell/?view=entra-powershell
+   15. PowerBI                      https://learn.microsoft.com/en-us/powershell/power-bi/overview?view=powerbi-ps 
     
 B. Scope: 1) CurrentUser 2) Process  
 C. Delegated Access: 1) Interactive Authentication 2) Device code 3) Access Token 4) Custom Azure Application  
